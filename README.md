@@ -16,8 +16,8 @@ Promotors can register to add their own upcoming events!
 
 ## Developers
 <ul>
-    <li>Bella Gianna - <a href="https://github.com/bellabluebells">Github</a></li>
-    <li>Sean Nguyen - <a href="https://github.com/Juwami">Github</a></li>
-    <li>Louis Rollins - <a href="https://github.com/LouisRollins">Github</a></li>
-    <li>Chris Ross - <a href="https://github.com/vtchris">Github</a></li>
+    <li>Bella Gianna - <a href="https://github.com/bellabluebells" target="_blank">Github</a></li>
+    <li>Sean Nguyen - <a href="https://github.com/Juwami" target="_blank">Github</a></li>
+    <li>Louis Rollins - <a href="https://github.com/LouisRollins" target="_blank">Github</a></li>
+    <li>Chris Ross - <a href="https://github.com/vtchris" target="_blank">Github</a></li>
 </ul>
